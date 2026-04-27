@@ -20,3 +20,6 @@ The commit message is mandatory and it will force you to write something if we d
 - SSH KEY : A way to securely connect to our remote computer/location/server. We add it to Github in the setting for ssh key
 
 -How to create an empty repository on GitHub: add a new repository on GitHub, dont add any files and follow instructions to connect with local
+
+- How to create a connection between local and remote
+git remote add origin <key>
