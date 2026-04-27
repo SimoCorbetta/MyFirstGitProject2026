@@ -27,3 +27,6 @@ git remote add origin <key>
 Git push : it will send the changes to the collaborators and to my backup.
 Git pull : it will sync changes that my collaborators sent to github or changes done in other instances
 
+To recover a repository cancelled locally but not on github
+git clone ssh address
+
