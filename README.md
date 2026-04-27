@@ -1,0 +1,2 @@
+# Project Description
+This folder contains the toy example created the 27 of April 2026 at the VIB course about version control, Git and GitHub. We are learning the basic commands and the different working areas
