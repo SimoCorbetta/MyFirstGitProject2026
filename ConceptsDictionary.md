@@ -9,3 +9,7 @@
 ## Conceptual areas
 
 1. Developing area : Folder where my project is developed
+
+
+
+3. Local repository :.git file, where the git software keeps all the committed versions, each commit is a point in time
