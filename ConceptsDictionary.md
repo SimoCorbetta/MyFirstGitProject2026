@@ -9,6 +9,7 @@
 ## Conceptual areas
 
 1. Developing area : Folder where my project is developed
+The commit message is mandatory and it will force you to write something if we do git commit without a message
 
 
 
