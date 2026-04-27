@@ -23,3 +23,7 @@ The commit message is mandatory and it will force you to write something if we d
 
 - How to create a connection between local and remote
 git remote add origin <key>
+
+Git push : it will send the changes to the collaborators and to my backup.
+Git pull : it will sync changes that my collaborators sent to github or changes done in other instances
+
