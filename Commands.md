@@ -9,3 +9,6 @@ adding to staging area
 adding to local repository
 
 `git commit -m "meaningful message`
+
+checking if files where committed
+`git status`
