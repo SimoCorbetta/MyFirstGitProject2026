@@ -32,3 +32,6 @@ To revert a commit we regret, we have to get the ID of the commit of the previou
 
 `git revert commit ID`
 
+To recover a deleted folder locally, use git clone from github
+`git clone sshaddress`
+
