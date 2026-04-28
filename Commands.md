@@ -69,3 +69,10 @@ Fake command
 
 `Hack git mwhahaha`
 
+To solve conflictis
+'git pull' then
+
+'git config pull.rebase false`
+
+`git push`
+
