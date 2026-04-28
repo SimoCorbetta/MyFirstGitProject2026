@@ -52,7 +52,13 @@ To delete the bridge netween local and online
 
 `git remote remove origin`
 
+To create a branch
 
+`git branch <name>`
+
+To move into the branch
+
+`git checkhout <name>`
 
 
 
