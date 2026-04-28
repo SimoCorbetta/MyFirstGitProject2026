@@ -56,11 +56,14 @@ To create a branch
 
 `git branch <name>`
 
+
 To move into the branch
 
 `git checkhout <name>`
 
+Alternative way (in one line create branch and check out)
 
+`git checkout -b <branch_name>`
 
 
 
