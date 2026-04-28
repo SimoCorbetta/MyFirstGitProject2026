@@ -28,5 +28,16 @@ Sync commands
 
 `git pull`
 
+To recover a repository that is cancelled locally but not on GitHub, we copy it locally from GitHub
+
+`git clone <ssh address github repo>`
+
+It copies back the good commit and keeps in the history committed and reverted version
+
+LINE TO REVERT
+
+`git revert`
+
+
 
 
