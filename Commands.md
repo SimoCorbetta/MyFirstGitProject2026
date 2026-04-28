@@ -61,6 +61,8 @@ To move into the branch
 `git checkhout <name>`
 
 
+To see local branches (asterix the one we are at the moment)
 
+`git branch --list`
 
 
