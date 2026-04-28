@@ -34,4 +34,5 @@ git clone ssh
 
 Each branch has a specific name, give a meaningful name
 It will have an indipendent, alternative timeline. They share a point in time, that is the first commit in the new branch. The main is usually the refined version and people work on branches
+Branching is very useful to work in more than one on the same project
 
