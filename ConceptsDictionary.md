@@ -35,4 +35,6 @@ git clone ssh
 Each branch has a specific name, give a meaningful name
 It will have an indipendent, alternative timeline. They share a point in time, that is the first commit in the new branch. The main is usually the refined version and people work on branches
 
+# Collaborate
 
+To collaborate, first invite on github. Then clone the files (make sure you are outside of your own files). ! Be careful when opening a new terminal as it might still be set on a different folder. Branches are good for collaboration so people can work in parallel. 
