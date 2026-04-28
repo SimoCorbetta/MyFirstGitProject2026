@@ -28,5 +28,7 @@ Sync commands
 
 `git pull`
 
+To revert a commit we regret, we have to get the ID of the commit (we can access it with log)
 
+`git revert commit ID`
 
