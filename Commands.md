@@ -24,14 +24,37 @@ Compare 2 different versions
 
 Sync commands
 
+Push from local to online
+
 `git push`
 
+Syncronize from remote to local
+
 `git pull`
+
+From local to remote
+
+`git remote add origin <ssh address>`
 
 To revert a commit we regret, we have to get the ID of the commit of the previous version (we can access it with log)
 
 `git revert commit ID`
 
 To recover a deleted folder locally, use git clone from github
+
 `git clone sshaddress`
+
+To rewrite the last commit message
+
+`git commit -amend`
+
+To delete the bridge netween local and online
+
+`git remote remove origin`
+
+
+
+
+
+
 
