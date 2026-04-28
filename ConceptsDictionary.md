@@ -28,5 +28,10 @@ Git push : it will send the changes to the collaborators and to my backup.
 Git pull : it will sync changes that my collaborators sent to github or changes done in other instances
 
 To recover a repository cancelled locally but not on github
-git clone ssh address
+git clone ssh 
+
+# Alternative history / Branching
+
+Each branch has a specific name, give a meaningful name
+It will have an indipendent, alternative timeline. They share a point in time, that is the first commit in the new branch. The main is usually the refined version and people work on branches
 
